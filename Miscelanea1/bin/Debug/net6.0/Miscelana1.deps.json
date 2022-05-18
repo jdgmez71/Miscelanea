@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Miscelana1/1.0.0": {
+        "runtime": {
+          "Miscelana1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Miscelana1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

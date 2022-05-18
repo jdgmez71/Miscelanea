@@ -1,0 +1,15 @@
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\bin\Debug\net6.0\Miscelana1.exe
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\bin\Debug\net6.0\Miscelana1.deps.json
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\bin\Debug\net6.0\Miscelana1.runtimeconfig.json
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\bin\Debug\net6.0\Miscelana1.dll
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\bin\Debug\net6.0\Miscelana1.pdb
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\Miscelana1.csproj.AssemblyReference.cache
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\Miscelana1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\Miscelana1.AssemblyInfoInputs.cache
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\Miscelana1.AssemblyInfo.cs
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\Miscelana1.csproj.CoreCompileInputs.cache
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\Miscelana1.dll
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\refint\Miscelana1.dll
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\Miscelana1.pdb
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\Miscelana1.genruntimeconfig.cache
+C:\Users\Sena\source\repos\Visual Studio\Miscelana1\obj\Debug\net6.0\ref\Miscelana1.dll
