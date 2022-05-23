@@ -15,7 +15,6 @@ namespace ConsoleApp2
         {
             Console.WriteLine("\nCalcular Area de un Triangulo");
             Console.WriteLine("");
-            Console.WriteLine("Ingrese dos valores enteros");
             Console.WriteLine("Ingrese el valor de la base: ");
 
             try
