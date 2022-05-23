@@ -1,0 +1,15 @@
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\Diagrama a Codigo.csproj.AssemblyReference.cache
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\Diagrama a Codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\Diagrama a Codigo.AssemblyInfoInputs.cache
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\Diagrama a Codigo.AssemblyInfo.cs
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\Diagrama a Codigo.csproj.CoreCompileInputs.cache
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\bin\Debug\net6.0\Diagrama a Codigo.exe
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\bin\Debug\net6.0\Diagrama a Codigo.deps.json
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\bin\Debug\net6.0\Diagrama a Codigo.runtimeconfig.json
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\bin\Debug\net6.0\Diagrama a Codigo.dll
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\bin\Debug\net6.0\Diagrama a Codigo.pdb
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\Diagrama a Codigo.dll
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\refint\Diagrama a Codigo.dll
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\Diagrama a Codigo.pdb
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\Diagrama a Codigo.genruntimeconfig.cache
+C:\Users\Juan Gómez\source\repos\Diagrama a Codigo\Diagrama a Codigo\obj\Debug\net6.0\ref\Diagrama a Codigo.dll

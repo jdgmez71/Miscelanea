@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diagrama a Codigo", "Diagrama a Codigo\Diagrama a Codigo.csproj", "{A93D7F26-EB5C-4914-9644-F45DE381474E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A93D7F26-EB5C-4914-9644-F45DE381474E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A93D7F26-EB5C-4914-9644-F45DE381474E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A93D7F26-EB5C-4914-9644-F45DE381474E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A93D7F26-EB5C-4914-9644-F45DE381474E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B216A5-DED8-4DEF-9633-143E1EF9D8F8}
+	EndGlobalSection
+EndGlobal
