@@ -8,14 +8,14 @@ namespace Diagrama_a_Codigo
 {
     internal class Particular
     {
-        private char IdPlacaAmarilla;
-        public void setIdPlacaAmarilla(char IdPlacaAmarilla)
+        private string IdPlacaAmarilla;
+        public void setIdPlacaAmarilla(string IdPlacaAmarilla)
         {
             this.IdPlacaAmarilla = IdPlacaAmarilla;
         }
-        public char getIdPlacaAmarilla()
+        public string getIdPlacaAmarilla()
         {
-            return IdPlacaAmarilla;
+            return " " + IdPlacaAmarilla;
         }
     }
 }

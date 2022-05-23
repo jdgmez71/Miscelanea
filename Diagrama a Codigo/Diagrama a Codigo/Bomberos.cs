@@ -25,7 +25,7 @@ namespace Diagrama_a_Codigo
         }
         public void setEquipoRescate(string EquipoRescate)
         {
-            this.EquipoRescate = "cuerdas, camillas, collares cervicales, tablillas, tanques de oxígeno, trajes de inmersión, equipos de respiración, motobombas, extintores, tenazas hidráulicas, cortadores, gatos telescópicos hidráulicos";
+            this.EquipoRescate = EquipoRescate;
         }
         public string getEquipoRescate()
         {

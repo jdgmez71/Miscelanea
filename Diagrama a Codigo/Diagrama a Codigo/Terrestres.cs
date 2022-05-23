@@ -11,10 +11,10 @@ namespace Diagrama_a_Codigo
     {
         private int Ruedas;
         private int Cambios;
-        public Terrestres  (int Ruedas, int Cambios)
+        public Terrestres  ()
         {
-            this.Ruedas = Ruedas;
-            this.Cambios = Cambios;
+            this.Ruedas = 4;
+            this.Cambios = 6;
         }
         public void setRuedas(int Ruedas)
         {
@@ -22,7 +22,7 @@ namespace Diagrama_a_Codigo
         }
         public string getRuedas()
         {
-            return "La cantidad de ruedas que posee el vehiculo son:"+ Ruedas;
+            return "La cantidad de ruedas que posee el vehiculo son: "+ Ruedas;
         }
         public void setCambios(int Cambios)
         {

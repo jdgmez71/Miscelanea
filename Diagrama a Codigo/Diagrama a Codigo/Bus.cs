@@ -9,13 +9,17 @@ namespace Diagrama_a_Codigo
     internal class Bus
     {
         private int TarifasFijas;
+        public Bus() 
+        {
+            TarifasFijas = 2000;
+        }
         public void setTarifasFijas(int TarifasFijas)
         {
             this.TarifasFijas = TarifasFijas;
         }
-        public int getTarifasFijas()
+        public string getTarifasFijas()
         {
-            return TarifasFijas;
+            return "La tarifa del bus cuesta: " + TarifasFijas;
         }
 
     }

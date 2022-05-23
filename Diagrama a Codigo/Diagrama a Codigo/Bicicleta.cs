@@ -8,15 +8,19 @@ namespace Diagrama_a_Codigo
 {
     internal class Bicicleta
     {
-        private char Marco;
+        private string Marco;
 
-        public void setMarco(char Marco)
+        public Bicicleta()
+        {
+            this.Marco = "Fixie Innova K2";
+        }
+        public void setMarco(string Marco)
         {
             this.Marco = Marco;
         }
-        public char getMarco()
+        public string getMarco()
         {
-            return Marco;
+            return "La bicicleta cuenta con un marco " + Marco;
         }
     }
 }
