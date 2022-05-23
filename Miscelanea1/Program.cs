@@ -207,9 +207,7 @@ namespace ConsoleApp2
                 }
                 Console.WriteLine("---------------------------------------------------------------------------------------------");
                 Console.WriteLine("");
-            } while (linea != "ayuda");
-
-            Console.WriteLine("Has ingresado: \t" + linea);
+            } while (linea != "");
         }
     }
 }
